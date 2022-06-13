@@ -94,3 +94,5 @@
 Количество вещей увеличится\
 Итог:\
 ОК
+
+![image](https://user-images.githubusercontent.com/54811112/173466191-29ccd410-6d38-44e2-937c-1e002e7154cb.png)
